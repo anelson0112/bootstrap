@@ -4,14 +4,14 @@ body{
 }
 
  .container-sm{
-    Font-Family: 'Monda', Sans-Serif;
+    font-family: 'Raleway', sans-serif;
     Font-Size: 25px;  
     background-color: #4b3a40;
     color: #f2e6ff;
     margin: 10px auto;
     padding: 50px;
     width: 50%;
-    font-family: 'Pontano Sans', sans-serif;
+    
 
 }
     .left{
@@ -23,7 +23,7 @@ body{
     h1{
         color: #8a8498;
         font-weight: bold;
-        Font-Family: 'Julius Sans One', Sans-Serif;
+        font-family: 'Raleway', sans-serif;
         Font-Size: 45px;
 
     }
@@ -32,12 +32,12 @@ body{
         font-style: oblique;
     }
     h3{
-        color: #988689;
+        color: #988689;ß
          
     }
     h4{
         color: #988689;
-        Font-Family: 'Julius Sans One', Sans-Serif;
+        font-family: 'Raleway', sans-serif;
         Font-Size: 45px;  
     }
    
