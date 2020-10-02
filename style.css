@@ -4,7 +4,8 @@ body{
 }
 
  .container-sm{
-    font-family: 'Pontano Sans', sans-serif;
+    Font-Family: 'Monda', Sans-Serif;
+    Font-Size: 25px;  
     background-color: #4b3a40;
     color: #f2e6ff;
     margin: 10px auto;
@@ -22,6 +23,8 @@ body{
     h1{
         color: #8a8498;
         font-weight: bold;
+        Font-Family: 'Julius Sans One', Sans-Serif;
+        Font-Size: 45px;
 
     }
     h2{
@@ -33,7 +36,9 @@ body{
          
     }
     h4{
-        color: #988689;  
+        color: #988689;
+        Font-Family: 'Julius Sans One', Sans-Serif;
+        Font-Size: 45px;  
     }
    
     .right{
